@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/oakoudad/badge42"><img width="38%" src="https://badge.mediaplus.ma/binary/lumarque?1337Badge=off&UM6P=off" alt="lumarque's 42 stats"/>
-  </a allign = "right"><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarmed&layout=compact&theme=transparent">
+  </a allign = "right"><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas42Porto&layout=compact&theme=transparent">
 </div>
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
